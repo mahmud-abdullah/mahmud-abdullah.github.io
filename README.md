@@ -1,5 +1,4 @@
 # mahmud-abdullah.github.io
-Personal Website
 
 # H1
 ## H2
